@@ -57,7 +57,7 @@ nav {
 #banner {
   padding: 4rem 3rem;
   text-align: center;
-  background: url('/assets/hero-bg.png') center/cover no-repeat;
+  background: url('/assets/hero-bg.jpg') center/cover no-repeat;
   min-height: 70vh;
   display: flex;
   flex-direction: column;
